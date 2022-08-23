@@ -1,0 +1,12 @@
+C:\Users\Aluno\Desktop\WFConsultarCep\WFConsultasCep\WFConsultasCep\bin\Debug\WFConsultasCep.exe.config
+C:\Users\Aluno\Desktop\WFConsultarCep\WFConsultasCep\WFConsultasCep\bin\Debug\WFConsultasCep.exe
+C:\Users\Aluno\Desktop\WFConsultarCep\WFConsultasCep\WFConsultasCep\bin\Debug\WFConsultasCep.pdb
+C:\Users\Aluno\Desktop\WFConsultarCep\WFConsultasCep\WFConsultasCep\obj\Debug\WFConsultasCep.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\WFConsultarCep\WFConsultasCep\WFConsultasCep\obj\Debug\WFConsultasCep.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\WFConsultarCep\WFConsultasCep\WFConsultasCep\obj\Debug\WFConsultasCep.Form1.resources
+C:\Users\Aluno\Desktop\WFConsultarCep\WFConsultasCep\WFConsultasCep\obj\Debug\WFConsultasCep.Form2.resources
+C:\Users\Aluno\Desktop\WFConsultarCep\WFConsultasCep\WFConsultasCep\obj\Debug\WFConsultasCep.Properties.Resources.resources
+C:\Users\Aluno\Desktop\WFConsultarCep\WFConsultasCep\WFConsultasCep\obj\Debug\WFConsultasCep.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\WFConsultarCep\WFConsultasCep\WFConsultasCep\obj\Debug\WFConsultasCep.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\WFConsultarCep\WFConsultasCep\WFConsultasCep\obj\Debug\WFConsultasCep.exe
+C:\Users\Aluno\Desktop\WFConsultarCep\WFConsultasCep\WFConsultasCep\obj\Debug\WFConsultasCep.pdb
